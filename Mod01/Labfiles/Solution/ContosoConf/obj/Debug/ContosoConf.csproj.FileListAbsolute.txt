@@ -1,0 +1,2 @@
+E:\mstecs\documentosMCTDescargas\descargasMCT\HTML-20480\AllFiles\Mod01\Labfiles\Solution\ContosoConf\obj\Debug\ContosoConf.csproj.AssemblyReference.cache
+E:\mstecs\documentosMCTDescargas\descargasMCT\HTML-20480\AllFiles\Mod01\Labfiles\Solution\ContosoConf\obj\Debug\ContosoConf.csproj.CoreCompileInputs.cache
